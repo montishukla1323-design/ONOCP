@@ -1,4 +1,4 @@
-# 🏛️ ONCOP (One Nation One Complaint Portal)
+# 🏛️ ONOCP (One Nation One Complaint Portal)
 ### Production Full-Stack Civic Grievance Redressal & Smart Routing Platform
 **Powered by Node.js, Express, SQLite (`node:sqlite`), Leaflet Maps & Official National Govt Gateways**
 
